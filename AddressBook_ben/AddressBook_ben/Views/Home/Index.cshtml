@@ -12,7 +12,7 @@
 <div class="row">
     @foreach (var contact in Model)
     {
-        <h2>@contact.FirstName</h2>
+        <h2>@string.Format("{0} {1}",contact.FirstName, contact.LastName)</h2>
     }
 </div>
 
