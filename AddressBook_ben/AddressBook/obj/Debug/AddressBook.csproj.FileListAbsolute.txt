@@ -1,0 +1,10 @@
+c:\users\dherrin\documents\visual studio 2015\Projects\AddressBook_ben\AddressBook\bin\Debug\AddressBook.exe.config
+c:\users\dherrin\documents\visual studio 2015\Projects\AddressBook_ben\AddressBook\bin\Debug\AddressBook.exe
+c:\users\dherrin\documents\visual studio 2015\Projects\AddressBook_ben\AddressBook\bin\Debug\AddressBook.pdb
+c:\users\dherrin\documents\visual studio 2015\Projects\AddressBook_ben\AddressBook\obj\Debug\AddressBook.csprojResolveAssemblyReference.cache
+c:\users\dherrin\documents\visual studio 2015\Projects\AddressBook_ben\AddressBook\obj\Debug\AddressBook.exe
+c:\users\dherrin\documents\visual studio 2015\Projects\AddressBook_ben\AddressBook\obj\Debug\AddressBook.pdb
+c:\users\dherrin\documents\visual studio 2015\Projects\AddressBook_ben\AddressBook\bin\Debug\EntityFramework.dll
+c:\users\dherrin\documents\visual studio 2015\Projects\AddressBook_ben\AddressBook\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\dherrin\documents\visual studio 2015\Projects\AddressBook_ben\AddressBook\bin\Debug\EntityFramework.xml
+c:\users\dherrin\documents\visual studio 2015\Projects\AddressBook_ben\AddressBook\bin\Debug\EntityFramework.SqlServer.xml
