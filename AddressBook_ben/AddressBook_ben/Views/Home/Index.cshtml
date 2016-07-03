@@ -13,6 +13,7 @@
     @foreach (var contact in Model)
     {
         <h2>@string.Format("{0} {1}",contact.FirstName, contact.LastName)</h2>
+        <div>@contact.PhoneNumber</div>
     }
 </div>
 
